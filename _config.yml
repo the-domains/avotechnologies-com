@@ -1,0 +1,28 @@
+name: 'AvoTechnologies.com '
+favicon: null
+layout_spectrum: 0.5905153753701597
+typography_spectrum: 0.25762375933118165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9453284291084856
+  lightness: 0.3303589771967381
+  saturation: 0.5207646924536675
+  rhythmicContrast: 0.24859740235842764
+purpose: []
